@@ -1,0 +1,7 @@
+baeldung.com###baeldung_right_rail_1
+||95f6d054324de67cf5a4b3082c4e307b.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html
+baeldung.com###baeldung_adhesion
+baeldung.com##.fs-sticky-slot-element
+baeldung.com###baeldung_leaderboard_mid_3
+baeldung.com###google_ads_iframe_\/15184186\,7114245\/baeldung_leaderboard_mid_2_0
+baeldung.com###baeldung_leaderboard_mid_2
