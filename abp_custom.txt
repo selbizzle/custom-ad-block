@@ -7,7 +7,7 @@
 !
 ! Filter list designed to remove stuff I don't like looking at day-to-day
 ! 
-! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/arabic.txt ***
+! *** Fetched from: https://raw.githubusercontent.com/selbizzle/custom-ad-block/main/abp_custom.txt ***
 ! MISC
 baeldung.com###baeldung_right_rail_1
 ||95f6d054324de67cf5a4b3082c4e307b.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html
